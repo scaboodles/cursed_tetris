@@ -10,3 +10,4 @@ Here is my compile command:
 $gcc tetris.c tetrominos.c -L/opt/homebrew/Cellar/ncurses/6.4/lib -lncursesw.6 -I/usr/include/ncursesw
 
 your mileage may vary
+<img src="./inAction.png"/>
